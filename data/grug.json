@@ -27,7 +27,13 @@
     },
     "strength": {
         "base": 15,
-        "adjustments": []
+        "adjustments": [
+            {
+                "amount": 2,
+                "sourceType": "background",
+                "sourceName": "Example Background"
+            }
+        ]
     },
     "dexterity": {
         "base": 13,
