@@ -1,0 +1,39 @@
+{
+  "id": "char-001",
+
+  "identity": {
+    "name": "Grug",
+    "playerName": "Devin",
+    "ruleset": "2024",
+    "alignment": "Chaotic Good",
+    "deity": "Torm",
+    "age": 32,
+    "gender": "Male",
+    "size": "Medium",
+    "appearance": ""
+  },
+
+  "notes": {
+    "personalityTraits": [],
+    "ideals": [],
+    "bonds": [],
+    "flaws": [],
+    "backstory": "",
+    "additionalNotes": ""
+  },
+  
+  "abilityScores": {
+    "generation": {
+        "method": ""
+    },
+    "strength": {
+      "base": 15,
+      "increases": []
+    },
+
+    "dexterity": {
+      "base": 14,
+      "increases": []
+    }
+  }
+}

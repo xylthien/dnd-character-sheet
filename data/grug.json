@@ -1,0 +1,53 @@
+{
+  "id": "grug-001",
+  "identity": {
+    "name": "Grug",
+    "ruleset": "2024",
+    "species": null,
+    "background": null
+  },
+  "classProgression": [
+    {
+      "class": "Fighter",
+      "level": 1
+    }
+  ],
+  "abilityScores": {
+    "generation": {
+    "method": "standard-array",
+    "rolls": [],
+    "assignments": {
+        "strength": 15,
+        "dexterity": 13,
+        "constitution": 14,
+        "intelligence": 12,
+        "wisdom": 10,
+        "charisma": 8
+    }
+    },
+    "strength": {
+        "base": 15,
+        "adjustments": []
+    },
+    "dexterity": {
+        "base": 13,
+        "adjustments": []
+    },
+    "constitution": {
+        "base": 14,
+        "adjustments": []
+    },
+    "intelligence": {
+        "base": 12,
+        "adjustments": []
+    },
+    "wisdom": {
+        "base": 10,
+        "adjustments": []
+    },
+    "charisma": {
+        "base": 8,
+        "adjustments": []
+    }
+  }
+}
